@@ -1,0 +1,10 @@
+export default {
+    WHITE: '#FFFFFF',
+    BLUE_THEME_TEXT: '#047CFF',
+    LIGHT_GREY: '#B3B3B3',
+    GREY:"#F8F8F8",
+    BKACK_TEXT: '#333333',
+    RED:"#F33535",
+    GREY_LINE:"#EDEDED",
+    BLUE_BUTTON:"#047CFF"
+}
