@@ -53,6 +53,11 @@ Defined users -
    - Handle errors gracefully, providing meaningful messages to users.
    - Clear error states on subsequent user interactions.
 
+8. **SVG Support:** Incorporate SVG (Scalable Vector Graphics) for high-quality and scalable visual elements. Enhance the app's aesthetics with crisp SVG icons and illustrations.
+
+9. **Custom Fonts:** Implement custom fonts to elevate the typography and overall visual experience. Configure and load custom fonts for a unique and consistent branding identity.
+
+
 **Technologies:**
 - React Native
 - Redux for State Management
