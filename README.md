@@ -38,7 +38,7 @@ Defined users -
    - Actions and reducers for authentication-related state changes.
    - Redux middleware for handling asynchronous API calls.
 
-5. **Local Memory (AsyncStorage) for Token Persistence:**
+5. **Local Memory (MMKV) for Token Persistence:**
    - Utilize AsyncStorage or a similar local storage solution for token persistence.
    - Save and retrieve authentication tokens securely.
    - Manage token expiration and refresh logic.
