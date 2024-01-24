@@ -39,7 +39,7 @@ Defined users -
    - Redux middleware for handling asynchronous API calls.
 
 5. **Local Memory (MMKV) for Token Persistence:**
-   - Utilize AsyncStorage or a similar local storage solution for token persistence.
+   - Utilized MMKV encrypted local storage solution for token persistence.
    - Save and retrieve authentication tokens securely.
    - Manage token expiration and refresh logic.
 
@@ -62,7 +62,7 @@ Defined users -
 - React Native
 - Redux for State Management
 - React Navigation for Navigation Flow
-- AsyncStorage for Token Storage
+- MMKV for Token Storage
 - Axios for API Integration
 
 **Project Goal:**
